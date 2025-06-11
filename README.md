@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Kotlin
 - 💞️ I’m looking to collaborate on ... @sushgit28
 - 📫 How to reach me ... email 
-- 😄 Pronouns: ... zuro798@nekosan.uk
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... ?
 
 <!---
